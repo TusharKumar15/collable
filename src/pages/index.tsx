@@ -4,8 +4,7 @@ import HeadNavBar from "@/components/headbar/headNavBar"
 export default function Home() {
   return (
     <div>
-      <HeadNavBar />
-      <Navbar />
+      content
     </div>
   )
 }
